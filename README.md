@@ -1,16 +1,24 @@
-### Hi there 👋
+### Ohi 🙃
 
-<!--
-**legitosaurus/legitosaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![wakatime](https://wakatime.com/badge/user/ed1b5a59-52f6-4480-8f03-4c5042dee78c.svg)](https://wakatime.com/@ed1b5a59-52f6-4480-8f03-4c5042dee78c)
+[![twitter](https://img.shields.io/twitter/follow/foodz?label=followers&logo=twitter&color=%23007ec6&style=flat-square)](https://twitter.com/foodz)
+[![keybase](https://img.shields.io/badge/Keybase-Chat-007ec6?logo=keybase&style=flat-square)](https://keybase.io/foodz)
+[![github](https://img.shields.io/github/followers/legitosaurus?logo=github&style=flat-square)](https://github.com/legitosaurus?tab=followers)
 
-Here are some ideas to get you started:
+```json
+{
+  "name": "Nathan Thompson",
+  "title": "Regex connoisseur",
+  "web": "https://www.dega.io",
+  "pgp": "9C70 22A6 15D8 2FDD A7F3 8789 900B B2C1 AA8A EF53"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since 2012: 27,546,491 keystrokes, 10,768,387 mouseclicks (As of 2022-03-06)
+
+
+- 💬 Ask me about programming language theory, theoretical computer science, or anything really.
+
+<p align="right">
+  <sup>;)</sup>
+</p>
